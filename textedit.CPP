@@ -1,12 +1,12 @@
 #include <fstream.h>
 #include <iostream.h>
-#include<conio.h>
-#include<process.h>
-#include<string.h>
-#include<stdio.h>
-#include<stdlib.h>
-#include<iomanip.h>
-#include<ctype.h>
+#include <conio.h>
+#include <process.h>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <iomanip.h>
+#include <ctype.h>
 
 int main ()
 {
